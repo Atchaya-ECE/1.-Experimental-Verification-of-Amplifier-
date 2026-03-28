@@ -216,7 +216,8 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ![WhatsApp Image 2026-03-28 at 10 54 16 AM](https://github.com/user-attachments/assets/1ef1e165-4797-4848-9318-564afd4dca90)
 
 ## OUT PUT WAVEFORM  
-![WhatsApp Image 2026-03-28 at 10 54 16 AM](https://github.com/user-attachments/assets/249d1862-cfd2-401c-a877-28f4dc8f10d1)
+![WhatsApp Image 2026-03-28 at 10 54 54 AM](https://github.com/user-attachments/assets/581afa9a-63b8-4cf8-8db0-50d1fc46f61d)
+
 
 
 ---
