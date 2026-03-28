@@ -223,7 +223,7 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 ## INSTRUMENTATION AMPLIFIER
 
-THEORY:
+## THEORY:
 
 An instrumentation amplifier is the intermediate stage of a instrumentation system. The signal source of the instrumentation amplifier is the output of the transducer. Many transducers output do not have the ability or sufficient strength to drive the next following stages. Therefore, instrumentation amplifiers are used to amplify the low-level output signal of the transducer so that it can drive the following stages such as indicator or displays.
 The major requirements of a instrumentation amplifier are precise, low-level signal amplification where low-noise, low thermal and time drifts, high input resistance & accurate closed-loop gain, low power consumption, high CMRR & high slew rate for superior performance.
@@ -234,6 +234,7 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
 <img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+
 ## CIRCUIT DIAGRAM
 ![WhatsApp Image 2026-03-28 at 10 59 54 AM](https://github.com/user-attachments/assets/24c6eaee-b3bf-4187-8b39-051e912e626f)
 
