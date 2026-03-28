@@ -1,4 +1,4 @@
-#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
+**EX.NO:** 1   EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
 **DATE:**  
 ---
 
@@ -53,7 +53,6 @@ Acl = -RF/R1
 ## CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
 <img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
 
-## CIRCUIT DIAGRAM:
 <img width="1246" height="995" alt="image" src="https://github.com/user-attachments/assets/81e96bf7-3fad-4b42-90c4-f039260bb15d" />
 
 ## MODEL GRAPH 
@@ -117,8 +116,6 @@ ACL = 1 + RF/R1
 
 <img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
 
----
-## CIRCUIT DIAGRAM
 <img width="1280" height="798" alt="image" src="https://github.com/user-attachments/assets/394ab465-6bf3-4814-b8f6-3b217af6c461" />
 
 ## MODEL GRAPH
@@ -166,7 +163,6 @@ A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
 <img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
 
-## CIRCUIT DIAGRAM
 ![WhatsApp Image 2026-03-28 at 10 52 54 AM](https://github.com/user-attachments/assets/61c47150-20ee-490a-a170-5c3c79a5afba)
 
 ## MODEL GRAPH
@@ -234,7 +230,6 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 <img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
 
-## CIRCUIT DIAGRAM
 ![WhatsApp Image 2026-03-28 at 10 59 54 AM](https://github.com/user-attachments/assets/24c6eaee-b3bf-4187-8b39-051e912e626f)
 
 ## MODEL GRAPH
